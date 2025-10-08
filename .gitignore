@@ -1,0 +1,8 @@
+# MacOS system files
+.DS_Store
+# Git attributes
+.gitattributes
+
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
